@@ -1,1 +1,0 @@
-Разархировать \Assets\TextMesh Pro\Resources\Fonts & Materials
